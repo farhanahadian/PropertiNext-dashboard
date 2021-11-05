@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body
+{
+  background-color: #fff;
+  color: #2b2b2b;
+  letter-spacing: 0.5px;
+  font-family: 'Poppins', sans-serif;
+
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+footer
+{
+  padding: 20px;
+  text-align: center;
+  border-top: 1px solid #ddd;
+}
+
+p {
+  margin: 0;
+}
+
+a, a:hover, a:focus, a:visited
+{
+  color: #000;
+}
+
+.logo {
+  width: 100%;
+  height: auto;
+  max-width: 400px;
+  max-height: 289px;
+}

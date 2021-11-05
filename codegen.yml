@@ -1,0 +1,9 @@
+schema: ./api/graphql/schema.graphql
+overwrite: true
+config:
+  avoidOptionals: false
+generates:
+  ./api/graphql/build/schema.d.js:
+    plugins:
+      - typescript
+      - typescript-resolvers
