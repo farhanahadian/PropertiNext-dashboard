@@ -1,6 +1,6 @@
 # Dashboard of PropertiNext
 
-https://propertinext.com/
+https://dashboard.propertinext.com/login
 
 ## Build Setup
 
