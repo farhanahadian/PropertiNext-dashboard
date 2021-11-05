@@ -1,6 +1,5 @@
-# {{ name }}
+# Dashboard of PropertiNext
 
-> {{ description }}
 
 ## Build Setup
 
